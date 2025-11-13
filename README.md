@@ -1,4 +1,4 @@
- # Nickname · Mustang
+ # Mustang
 
 🎯 AI enthusiast · LLM apps · RAG · Full-stack (Python / React)
 
