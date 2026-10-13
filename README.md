@@ -6,27 +6,28 @@
 
 ### 👋 About Me
 
-- 🧑‍🎓 **Applied Computing** undergraduate at The Hang Seng University of Hong Kong
+- 🧑‍🎓 **Computer Science Undergraduate**
 - 🤖 Interested in **LLM applications**, **workflow automation**, and **practical business software**
-- 🚀 Built **PickHub Nepal**, a live parcel-management platform used by staff, starting in **September 2026**
+- 🚀 Independently built and launched **[PickHub Nepal](https://pickuppointnepal.com)**, a live parcel-management platform
 
 ---
 
 ### 🧠 Skills & Tools
 
 - **AI & Automation**
-  - LLM testing and evaluation · prompt design
-  - OpenClaw · workflow automation
-  - Python · Pandas · Playwright
+  - Codex · Claude Code · OpenClaw
+  - Prompt design · MCP · workflow automation
+  - LLM testing and evaluation
 
-- **Web & Backend**
-  - Next.js · React · TypeScript
+- **Languages & Web**
+  - Python · JavaScript · TypeScript · SQL
+  - Next.js · React
   - Supabase · authentication · databases · private storage
   - Cloudflare · REST APIs
 
 - **Dev & Operations**
   - Git · GitHub · Docker
-  - Codex · Claude Code
+  - Pandas · Playwright
   - Backups · Healthchecks monitoring
   - Functional testing · UAT · regression testing
 
@@ -34,8 +35,8 @@
 
 ### 🔧 Selected Projects
 
-- **[PickHub Nepal](https://pickuppointnepal.com)** · **Live** · September 2026–present  
-  Independently built a parcel-management platform used by staff for **parcel intake**, **handover**, **returns**, and **payment records**. Includes **staff, vendor and owner workflows**, role-based access, and separate cash-on-delivery and service-fee records. Built with **Next.js**, **React/TypeScript**, **Supabase** and **Cloudflare**, with backups and monitoring.
+- **[PickHub Nepal](https://pickuppointnepal.com)** · **Live**  
+  Independently built and launched a parcel-management platform, from interface design to backend integration and cloud deployment. Handles **parcel intake**, **handover**, **returns**, and **payment records**. Includes **staff, vendor and owner workflows**, role-based access, and separate cash-on-delivery and service-fee records. Built with **Next.js**, **React/TypeScript**, **Supabase** and **Cloudflare**, with backups and monitoring.
 
 - **[Adaptive Learning Platform](https://github.com/RoLBester/adaptive-learning-platform)**  
   Learning platform using **React/TypeScript**, **FastAPI**, **MongoDB**, and **Hugging Face** for adaptive quizzes, AI explanations and learner-progress tracking.
