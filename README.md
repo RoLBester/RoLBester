@@ -1,27 +1,51 @@
-# Manoj Rayamajhi Chhetri
-**Preferred name: Mustang**
+ # Mustang
 
-Applied Computing undergraduate at The Hang Seng University of Hong Kong, graduating in June 2027. Based in Hong Kong.
+🎯 AI enthusiast · LLM apps · RAG · Full-stack (Python / React)
 
-I am interested in technology consulting, AI evaluation and workflow automation. My experience includes testing AI applications, documenting defects and using AI coding tools to build and refine software.
+---
 
-## Selected public projects
+### 👋 About Me
 
-### [Adaptive Learning Platform](https://github.com/RoLBester/adaptive-learning-platform)
-An educational prototype connecting a React/TypeScript interface with a FastAPI backend and MongoDB. The repository includes quiz evaluation, learning recommendations, progress tracking and a Hugging Face chat integration.
+- 🧑‍🎓 Undergraduate student in Computer Science
+- 🤖 Interested in **LLM applications**, **AI for education**, and **AI tooling**
+- 🏛️ Currently: **Junior AI Placement Student**
 
-**Focus:** connecting user journeys, APIs and stored data in one application.
+---
 
-### [Communication and Assignment Sharing Platform](https://github.com/RoLBester/webapp-Communication-and-Assignment-Sharing-platform)
-A university team project for student chat, assignment sharing and file uploads, using React/TypeScript, PHP and MySQL.
+### 🧠 Skills & Tools
 
-**Focus:** application workflows, API integration and collaboration.
+- **AI / ML & LLMs**
+  - Python · basic PyTorch/TensorFlow
+  - Meta Llama 2 integration
+  - Hugging Face ecosystem (transformers, pipelines)
+  - Prompt design & basic evaluation
 
-## How I work
-- Turn practical needs into application workflows and prototypes.
-- Use structured tests, defect reports and repeatable checks to review behaviour.
-- Use AI-assisted development with Codex and Claude Code, supported by Python fundamentals and hands-on work with Git, Docker and cloud services.
+- **Web & Backend**
+  - React · TypeScript
+  - Flask / FastAPI · REST APIs
+  - PHP · MySQL · MongoDB
 
-These repositories are learning projects, with implementation details and setup notes in their documentation.
+- **Dev & Workflow**
+  - Git · GitHub
+  - GitHub Actions (CI)
+  - Docker (learning)
+  - Jupyter, VS Code
 
-[LinkedIn](https://www.linkedin.com/in/manoj-r-665a72251/)
+---
+
+### 🔧 Selected Projects
+
+- **[Adaptive Learning Platform](https://github.com/RoLBester/adaptive-learning-platform)**  
+  Full-stack AI education platform built with **React/TypeScript** (frontend), **Python (FastAPI/Flask)** + **MongoDB** (backend), and **Meta Llama 2 via Hugging Face** for question-answering and personalised learning recommendations. Shows experience with **LLM integration**, **REST APIs**, and **data-driven learning features**.
+
+- **[AI Content Marketplace Prototype](https://github.com/RoLBester/content-marketplace)**  
+  Small **Flask**-based prototype of an AI-assisted content marketplace, with endpoints to upload content and (planned/initial) AI-powered summarisation and tagging. Focused on building simple, clean **REST APIs** and experimenting with AI for content workflows.
+
+- **[Communication and Assignment Sharing Platform](https://github.com/RoLBester/webapp-Communication-and-Assignment-Sharing-platform)**  
+  Team project: full-stack web app for student **chat**, **assignment sharing**, and **file uploads**, built with **React/TypeScript** frontend and **PHP + MySQL** backend. Includes **JWT-based authentication**, **REST APIs**, and a structured database schema for users, messages and assignments.
+---
+
+### 📫 Contact
+
+- GitHub: [@RoLBester](https://github.com/RoLBester)
+- Email:  route.mirror6044@eagereverest.com
