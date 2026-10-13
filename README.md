@@ -1,48 +1,48 @@
  # Mustang
 
-🎯 AI enthusiast · LLM apps · RAG · Full-stack (Python / React)
+🎯 AI applications · Workflow automation · Web platforms
 
 ---
 
 ### 👋 About Me
 
-- 🧑‍🎓 Undergraduate student in Computer Science
-- 🤖 Interested in **LLM applications**, **AI for education**, and **AI tooling**
-- 🏛️ Currently: **Junior AI Placement Student**
+- 🧑‍🎓 **Applied Computing** undergraduate at The Hang Seng University of Hong Kong
+- 🤖 Interested in **LLM applications**, **workflow automation**, and **practical business software**
+- 🚀 Built **PickHub Nepal**, a live parcel-management platform used by staff, starting in **September 2026**
 
 ---
 
 ### 🧠 Skills & Tools
 
-- **AI / ML & LLMs**
-  - Python · basic PyTorch/TensorFlow
-  - Meta Llama 2 integration
-  - Hugging Face ecosystem (transformers, pipelines)
-  - Prompt design & basic evaluation
+- **AI & Automation**
+  - LLM testing and evaluation · prompt design
+  - OpenClaw · workflow automation
+  - Python · Pandas · Playwright
 
 - **Web & Backend**
-  - React · TypeScript
-  - Flask / FastAPI · REST APIs
-  - PHP · MySQL · MongoDB
+  - Next.js · React · TypeScript
+  - Supabase · authentication · databases · private storage
+  - Cloudflare · REST APIs
 
-- **Dev & Workflow**
-  - Git · GitHub
-  - GitHub Actions (CI)
-  - Docker (learning)
-  - Jupyter, VS Code
+- **Dev & Operations**
+  - Git · GitHub · Docker
+  - Codex · Claude Code
+  - Backups · Healthchecks monitoring
+  - Functional testing · UAT · regression testing
 
 ---
 
 ### 🔧 Selected Projects
 
-- **[Adaptive Learning Platform](https://github.com/RoLBester/adaptive-learning-platform)**  
-  Full-stack AI education platform built with **React/TypeScript** (frontend), **Python (FastAPI/Flask)** + **MongoDB** (backend), and **Meta Llama 2 via Hugging Face** for question-answering and personalised learning recommendations. Shows experience with **LLM integration**, **REST APIs**, and **data-driven learning features**.
+- **[PickHub Nepal](https://pickuppointnepal.com)** · **Live** · September 2026–present  
+  Independently built a parcel-management platform used by staff for **parcel intake**, **handover**, **returns**, and **payment records**. Includes **staff, vendor and owner workflows**, role-based access, and separate cash-on-delivery and service-fee records. Built with **Next.js**, **React/TypeScript**, **Supabase** and **Cloudflare**, with backups and monitoring.
 
-- **[AI Content Marketplace Prototype](https://github.com/RoLBester/content-marketplace)**  
-  Small **Flask**-based prototype of an AI-assisted content marketplace, with endpoints to upload content and (planned/initial) AI-powered summarisation and tagging. Focused on building simple, clean **REST APIs** and experimenting with AI for content workflows.
+- **[Adaptive Learning Platform](https://github.com/RoLBester/adaptive-learning-platform)**  
+  Learning platform using **React/TypeScript**, **FastAPI**, **MongoDB**, and **Hugging Face** for adaptive quizzes, AI explanations and learner-progress tracking.
 
 - **[Communication and Assignment Sharing Platform](https://github.com/RoLBester/webapp-Communication-and-Assignment-Sharing-platform)**  
-  Team project: full-stack web app for student **chat**, **assignment sharing**, and **file uploads**, built with **React/TypeScript** frontend and **PHP + MySQL** backend. Includes **JWT-based authentication**, **REST APIs**, and a structured database schema for users, messages and assignments.
+  Team project built with **React/TypeScript** and **PHP + MySQL** for student chat, assignment sharing and file uploads.
+
 ---
 
 ### 📫 Contact
