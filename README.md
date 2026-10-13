@@ -8,7 +8,7 @@
 
 - 🧑‍🎓 **Computer Science Undergraduate**
 - 🤖 Interested in **LLM applications**, **workflow automation**, and **practical business software**
-- 🚀 Independently built and launched **[PickHub Nepal](https://pickuppointnepal.com)**, a live parcel-management platform
+- 🚀 Built and shipped a **live product for parcel and payment management**
 
 ---
 
@@ -34,7 +34,7 @@
 ### 🔧 Selected Projects
 
 - **[PickHub Nepal](https://pickuppointnepal.com)** · **Live**  
-  Independently built and launched a parcel-management platform, from interface design to backend integration and cloud deployment. Handles **parcel intake**, **handover**, **returns**, and **payment records**. Includes **staff, vendor and owner workflows**, role-based access, and separate cash-on-delivery and service-fee records. Built with **Next.js**, **React/TypeScript**, **Supabase** and **Cloudflare**, with backups and monitoring.
+  Designed, built and shipped a live parcel-management product, from interface design to backend integration and cloud deployment. Handles **parcel intake**, **handover**, **returns**, and **payment records**. Includes **staff, vendor and owner workflows**, role-based access, and separate cash-on-delivery and service-fee records. Built with **Next.js**, **React/TypeScript**, **Supabase** and **Cloudflare**, with backups and monitoring.
 
 - **[Adaptive Learning Platform](https://github.com/RoLBester/adaptive-learning-platform)**  
   Learning platform using **React/TypeScript**, **FastAPI**, **MongoDB**, and **Hugging Face** for adaptive quizzes, AI explanations and learner-progress tracking.
