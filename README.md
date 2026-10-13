@@ -22,6 +22,6 @@ A university team project for student chat, assignment sharing and file uploads,
 - Use structured tests, defect reports and repeatable checks to review behaviour.
 - Use AI-assisted development with Codex and Claude Code, supported by Python fundamentals and hands-on work with Git, Docker and cloud services.
 
-These repositories are learning projects. Their source code and documentation show the implementation; they are not claims of production adoption or measured business results.
+These repositories are learning projects, with implementation details and setup notes in their documentation.
 
 [LinkedIn](https://www.linkedin.com/in/manoj-r-665a72251/)
