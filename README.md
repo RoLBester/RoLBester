@@ -14,22 +14,20 @@
 
 ### 🧠 Skills & Tools
 
-- **AI & Automation**
-  - Codex · Claude Code · OpenClaw
-  - Prompt design · MCP · workflow automation
-  - LLM testing and evaluation
-
-- **Languages & Web**
+- **Programming**
   - Python · JavaScript · TypeScript · SQL
-  - Next.js · React
-  - Supabase · authentication · databases · private storage
-  - Cloudflare · REST APIs
 
-- **Dev & Operations**
-  - Git · GitHub · Docker
-  - Pandas · Playwright
-  - Backups · Healthchecks monitoring
-  - Functional testing · UAT · regression testing
+- **Web & Cloud**
+  - Next.js · React · Supabase · Cloudflare · REST APIs
+
+- **AI & Agents**
+  - Codex · Claude Code · OpenClaw
+
+- **Developer Tools**
+  - Docker · Git · GitHub · VS Code
+
+- **Others**
+  - Microsoft Office · Canva · CapCut
 
 ---
 
